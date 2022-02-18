@@ -6,7 +6,7 @@
 title: Long Do
 description: My personal wiki
 baseurl: "/wiki" # the subpath of your site, e.g. /blog
-url: "https://longpdo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://morfina.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: none
 exclude: ["*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "gulpfile.js",
@@ -49,7 +49,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Github":
-    - "//github.com/longpdo"
+    - "//github.com/morfina"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -74,7 +74,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/longpdo/wiki" # the github URL for your repo
+gh_edit_repository: "https://github.com/morfina/wiki" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
